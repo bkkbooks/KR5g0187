@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0187/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0187/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清金真玉光八景飛經
+  date: '2015-08-29 02:59:43.289650'
+  source:
+    repository: kanripo
+    path: KR5g0187
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0187_000-ZTDZ.yaml, hash: 'sha256:7494304749bda701a2bceae6b0b407511c3d03135de004342f3c25b6f4394627'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0187_000-ZTDZ.markers.yaml, hash: 'sha256:fde33a6854eb016ef2a40c587f8031e20e48210f4a787a4dad5c5a22a225ac77'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0187_SJB_000-340054a
+    span:
+    - body
+    - 0
+    - 7140
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:6037bfaa84e252b097cc2ea992cd7111069b49d676ac021bc20edf18d934a365
